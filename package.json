@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-js",
+  "name": "app000",
   "private": true,
   "scripts": {
     "dev": "nuxt dev",
@@ -11,7 +11,6 @@
     "@nuxt/image": "^0.4.10",
     "@nuxt/nitro": "^0.7.1",
     "@nuxtjs/composition-api": "^0.24.0",
-    "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
     "nuxt-vite": "^0.1.1"
